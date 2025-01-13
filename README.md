@@ -13,7 +13,7 @@
   <img src="https://github.com/Apratim23/Responsive-Web-Design/blob/main/Certification/Screenshot%202025-01-10%20185706.png" alt="Certificate">
 </div>
 <div align="center">
-  <h3><a href="https://www.freecodecamp.org/certification/apratim/machine-learning-with-python-v7">Certificate Link</a></h3>
+  <h3><a href="https://www.freecodecamp.org/certification/apratim/responsive-web-design">Certificate Link</a></h3>
 </div>
 
 <h2>Contents</h2>
