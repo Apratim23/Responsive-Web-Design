@@ -23,8 +23,8 @@
 | [Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form) |	[Click here](https://github.com/Apratim23/Responsive-Web-Design/tree/main/Survey%20Form) |
 | [Tribute PAge](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page) |	[Click here](https://github.com/Apratim23/Responsive-Web-Design/tree/main/Tribute%20Page) |
 | [Technical Documentation Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page) |	[Click here](https://github.com/Apratim23/Responsive-Web-Design/tree/main/Technical%20Documentation) |
-| [Product Landing Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page) |	[Click here](./health-costs-prediction) |
-| [Personal Porfolio Website](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-personal-portfolio-webpage-project/build-a-personal-portfolio-webpage) |	[Click here](./sms-text-classification) |
+| [Product Landing Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page) |	[Click here](https://github.com/Apratim23/Responsive-Web-Design/tree/main/Product%20Landing%20Page) |
+| [Personal Porfolio Website](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-personal-portfolio-webpage-project/build-a-personal-portfolio-webpage) |	[Click here](https://github.com/Apratim23/Responsive-Web-Design/tree/main/Personal%20Portfolio) |
 
 <h2>Tools used</h2>
 <ol>
