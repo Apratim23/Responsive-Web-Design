@@ -29,9 +29,14 @@
 <h2>Tools used</h2>
 <ol>
   <li>Visual Studio Code</li>
+  <li>HTML</li>
+  <li>CSS</li>
 </ol>
 
 <h2>Link to Tools</h2>
 <p align="left">
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/></a>&emsp;
+</p>
+<p align="left">
+  <a href="https://html.com" target="_blank" rel="noreferrer"> <img src="https://www.pngegg.com/en/search?q=html" alt="HTML" width="40" height="40"/></a>&emsp;
 </p>
