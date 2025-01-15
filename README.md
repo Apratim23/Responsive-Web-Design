@@ -36,7 +36,6 @@
 <h2>Link to Tools</h2>
 <p align="left">
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/></a>&emsp;
-</p>
-<p align="left">
-  <a href="https://html.com" target="_blank" rel="noreferrer"> <img src="https://www.pngegg.com/en/search?q=html" alt="HTML" width="40" height="40"/></a>&emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML" height="40"/></a>&emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" height="40"/></a>&emsp;
 </p>
